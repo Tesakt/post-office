@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>post_office.png</file>
+        <file>person.png</file>
+    </qresource>
+</RCC>
